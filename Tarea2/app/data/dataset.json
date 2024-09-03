@@ -1,0 +1,252 @@
+[
+    {
+      "name": "Macbook Air M1",
+      "price": 759000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "iPhone 12",
+      "price": 999000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "price": 899000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "PlayStation 5",
+      "price": 499000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Xbox Series X",
+      "price": 499000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Nintendo Switch",
+      "price": 299000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Apple Watch Series 6",
+      "price": 399000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "AirPods Pro",
+      "price": 249000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Dell XPS 13",
+      "price": 1099000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "HP Spectre x360",
+      "price": 1199000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Asus ROG Zephyrus G14",
+      "price": 1499000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Macbook Pro 13",
+      "price": 1299000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Sony WH-1000XM4",
+      "price": 349000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Bose QuietComfort 35 II",
+      "price": 299000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Canon EOS R5",
+      "price": 3899000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Nikon Z6 II",
+      "price": 1999000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Sony Alpha a7 III",
+      "price": 1999000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "GoPro HERO9 Black",
+      "price": 449000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "DJI Mavic Air 2",
+      "price": 799000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Apple iPad Air",
+      "price": 599000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Samsung Galaxy Tab S7",
+      "price": 649000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Microsoft Surface Pro 7",
+      "price": 749000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Amazon Kindle Paperwhite",
+      "price": 129000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Google Nest Hub",
+      "price": 89900,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Ring Video Doorbell 3",
+      "price": 199000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Philips Hue Starter Kit",
+      "price": 199000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Dyson V11 Absolute",
+      "price": 599000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "iRobot Roomba i7+",
+      "price": 799000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Samsung Galaxy Watch 3",
+      "price": 399000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Fitbit Charge 4",
+      "price": 149000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Jabra Elite 75t",
+      "price": 179000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Sony PlayStation VR",
+      "price": 349000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Oculus Quest 2",
+      "price": 299000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Apple TV 4K",
+      "price": 179000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Roku Streaming Stick+",
+      "price": 49900,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "NVIDIA Shield TV",
+      "price": 149000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Logitech MX Master 3",
+      "price": 99900,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Corsair K95 RGB Platinum",
+      "price": 199000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Razer DeathAdder V2",
+      "price": 69900,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "SteelSeries Arctis 7",
+      "price": 149000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Blue Yeti USB Mic",
+      "price": 129000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Elgato Stream Deck",
+      "price": 149000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Apple Pencil 2nd Gen",
+      "price": 129000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Wacom Intuos Pro",
+      "price": 249000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Logitech C922 Pro",
+      "price": 99900,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "HyperX Cloud II",
+      "price": 99900,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Sennheiser HD 599",
+      "price": 199000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Beyerdynamic DT 990 Pro",
+      "price": 179000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "Marshall Kilburn II",
+      "price": 299000,
+      "email": "leaguel255@gmail.com"
+    },
+    {
+      "name": "JBL Flip 5",
+      "price": 119000,
+      "email": "leaguel255@gmail.com"
+    }
+   ]
