@@ -10,5 +10,5 @@ Este repositorio contiene las tareas realizados en 2024 del curso de Sistemas Di
 - Kafka
 - Docker
 - Zookeeper
-- SQL
+- PostgreSQL
 - PigLatin
